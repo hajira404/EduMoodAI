@@ -1,7 +1,7 @@
 # EduMoodAI - Mood-Based Learning Path Recommender
 
 A personalized learning platform that adapts content recommendations based on your current mood and tracks your progress over time.
-[click here]([url](https://dapper-choux-8a514e.netlify.app/))
+[click here]([https://dapper-choux-8a514e.netlify.app/])
 
 ## Features
 
